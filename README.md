@@ -1,1 +1,1 @@
-# basic-python-package-cookiecutter
+# basic-python-executable-cookiecutter
