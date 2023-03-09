@@ -1,0 +1,6 @@
+{
+    "project_name": "Project Name (this will also be the name of the executable)",
+    "package_name": "Package Name (please ensure it is a valid python package name)",
+    "short_description": "a short description",
+    "package_author": "Your Name"
+}

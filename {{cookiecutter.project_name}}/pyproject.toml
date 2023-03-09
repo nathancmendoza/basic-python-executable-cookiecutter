@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "{{cookiecutter.package_name}}"
+version = "0.0.1"
+description = "{{cookiecutter.short_description}}"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+my-client = "{{cookiecutter.package_name}}.cli:{{cookiecutter.project_name}}"
